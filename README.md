@@ -89,6 +89,7 @@ Visualisation comparative
 **Équipe** : Fatima Ezzahra Meskine • Najlae Babadaih • Ikram Ait Ben Mbark  
 
 **Date** : 2025
+
 **Domaine** : Climatologie Appliquée & Data Science
 
 ---
