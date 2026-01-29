@@ -93,7 +93,7 @@ Visualisation comparative
 Pour toute question, collaboration ou demande d'accès aux données :
 
 - 📧 Email : meskinefatimaezzahra@gmail.com
-- 🌐 LinkedIn : [[Votre profil LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-meskine/)]
+- 🌐 LinkedIn : [[LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-meskine/)]
 - 🐦 Twitter : 
 
 **Domaine** : Climatologie Appliquée & Data Science
