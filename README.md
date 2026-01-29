@@ -24,11 +24,11 @@ Chaque modèle a été **spécifiquement optimisé** pour capturer les dynamique
 
 ## 📊 Résultats des Modèles Optimisés
 
-| Modèle | MAE (mm) | RMSE (mm) | R² | Détection des Pics (Rappel) |
-|--------|----------|-----------|-----|----------------------------|
-| **XGBoost** | **0.0027** | **0.0588** | **0.95** | **85-90%** |
-| **Random Forest** | 0.0038 | 0.0720 | 0.92 | 80-85% |
-| **LSTM** | 0.0254 | 0.2110 | 0.75 | 65-70% |
+| Modèle | MAE (mm) | RMSE (mm) |
+|--------|----------|-----------|
+| **XGBoost** | **0.0027** | **0.0588** |
+| **Random Forest** | 0.0038 | 0.0720 |
+| **LSTM** | 0.0254 | 0.2110 |
 
 ---
 
@@ -66,39 +66,6 @@ Visualisation comparative
 
 ---
 
-## 📁 Structure du Projet
-
-```
-/
-├── data/              # Données NASA POWER
-├── models/            # Implémentations optimisées
-│   ├── xgboost_optimized.py
-│   ├── randomforest_optimized.py
-│   └── lstm_optimized.py
-├── notebooks/         # Analyses exploratoires
-├── results/           # Métriques et visualisations
-└── README.md          # Cette documentation
-```
-
----
-
-## 🚀 Comment Reproduire
-
-```bash
-# 1. Installer les dépendances
-pip install -r requirements.txt
-
-# 2. Exécuter chaque modèle
-python models/xgboost_optimized.py
-python models/randomforest_optimized.py
-python models/lstm_optimized.py
-
-# 3. Analyser les résultats
-jupyter notebook notebooks/analysis.ipynb
-```
-
----
-
 ## 📈 Perspectives d'Amélioration
 
 1. **Ensemble learning** : Combinaison des trois modèles
@@ -119,8 +86,8 @@ jupyter notebook notebooks/analysis.ipynb
 
 ## 📧 Contact
 
-**Auteur** : [Votre nom]  
-**Date** : 2024  
+**Équipe** : Fatima Ezzahra Meskine • Najlae Babadaih • Ikram Ait Ben Mbark
+**Date** : 2025
 **Domaine** : Climatologie Appliquée & Data Science
 
 ---
