@@ -30,6 +30,12 @@ Chaque modèle a été **spécifiquement optimisé** pour capturer les dynamique
 | **Random Forest** | 0.0038 | 0.0720 |
 | **LSTM** | 0.0254 | 0.2110 |
 
+### 📈 Visualisation Comparative
+
+![Comparaison des Modèles](graph.png)
+
+*Figure 1 :  Diagramme de dispersion (Vraies valeurs vs Prédictions)*
+
 ---
 
 ## 🔍 Conclusions Clés
@@ -94,7 +100,6 @@ Pour toute question, collaboration ou demande d'accès aux données :
 
 - 📧 Email : meskinefatimaezzahra@gmail.com
 - 🌐 LinkedIn : [[LinkedIn](https://www.linkedin.com/in/fatima-ezzahra-meskine/)]
-- 🐦 Twitter : 
 
 **Domaine** : Climatologie Appliquée & Data Science
 
